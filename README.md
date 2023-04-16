@@ -17,21 +17,26 @@ When the user runs the application again, they can choose to load previously sav
 ## Data Structure:
 
 #example:#  
-How many cuisines would you like to search for? 3. 
+How many cuisines would you like to search for? 3
+
 Enter cuisine 1: asian food  
-How many topics for asian food? 3. 
-Enter topic 1: sushi. 
-Enter topic 2: ramen. 
-Enter topic 3: chinese dumplings. 
-Enter cuisine 2: american food. 
-How many topics for american food? 3. 
-Enter topic 1: hamburgers. 
-Enter topic 2: barbecue recipes. 
-Enter topic 3: mac and cheese. 
-Enter cuisine 3: italian food. 
-How many topics for italian food? 3. 
+
+How many topics for asian food? 3
+
+Enter topic 1: sushi
+
+Enter topic 2: ramen
+
+Enter topic 3: chinese dumplings
+Enter cuisine 2: american food
+How many topics for american food? 3
+Enter topic 1: hamburgers
+Enter topic 2: barbecue recipes
+Enter topic 3: mac and cheese 
+Enter cuisine 3: italian food
+How many topics for italian food? 3 
 Enter topic 1: pasta dishes  
-Enter topic 2: pizza recipes. 
+Enter topic 2: pizza recipes
 Enter topic 3: italian desserts
 Enter location: New York, NY
 
